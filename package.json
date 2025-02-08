@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@geist-ui/core": "^2.3.8",
     "@tanstack/react-table": "^8.20.6",
     "d3": "^7.9.0",
     "date-fns": "^3.6.0",
